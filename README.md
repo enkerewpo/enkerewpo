@@ -1,5 +1,7 @@
 ### Hi~ this is wheatfox🦊
 
+![](profile-3d-contrib/profile-green-animate.svg)
+
 wheatfox's OS blog website
 [www.oscommunity.cn](https://www.oscommunity.cn)
 
