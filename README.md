@@ -3,7 +3,8 @@
 wheatfox's OS blog website
 [www.oscommunity.cn](https://www.oscommunity.cn)
 
-- currently a CS student in NWPU(Northwestern Polytechnical University)
+- NWPU(Northwestern Polytechnical University)
+- Peking University(now)
 - contact at enkerewpo@hotmail.com / yulonghan@acm.org
 - homepage at [wheatfox's den](https://wheatfox.dev)
 
