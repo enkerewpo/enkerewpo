@@ -7,7 +7,7 @@ wheatfox's OS blog website
 
 - NWPU(Northwestern Polytechnical University)
 - Peking University(now)
-- contact at enkerewpo@hotmail.com / yulonghan@acm.org
+- contact at enkerewpo@hotmail.com / yulonghan@stu.pku.edu.cn
 - homepage at [wheatfox's den](https://wheatfox.dev)
 
 #### Stats
