@@ -5,7 +5,6 @@
 wheatfox's OS blog website
 [www.oscommunity.cn](https://www.oscommunity.cn)
 
-- NWPU(Northwestern Polytechnical University)
 - Peking University(now)
 - contact at enkerewpo@hotmail.com / yulonghan@stu.pku.edu.cn
 - homepage at [wheatfox's den](https://wheatfox.dev)
