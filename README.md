@@ -1,5 +1,12 @@
 ### Hi~ this is wheatfox🦊
 
+Currently a PhD student@PKU, researching LLVM, Operating Systems, Heterogeneous Hardwares and Rust.
+
+fun facts about wheatfox:
+
+1. I write game music and electronic music. [soundcloud](https://soundcloud.com/wheatfox), [spotify](https://open.spotify.com/artist/1u5SE8RW4ivt3LgZR7skkO)
+2. like foxes and nature
+
 ![](profile-3d-contrib/profile-green-animate.svg)
 
 wheatfox's OS blog website
