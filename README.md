@@ -14,7 +14,6 @@ fun facts about wheatfox:
 1. I write game music and electronic music. [soundcloud](https://soundcloud.com/wheatfox), [spotify](https://open.spotify.com/artist/1u5SE8RW4ivt3LgZR7skkO), [bandcamp](https://wheatfox.bandcamp.com/)
 2. Like foxes and nature
 3. my other dev accounts: [wheatfox@redox-os](https://gitlab.redox-os.org/wheatfox)
-4. love Linux, FreeBSD, LLVM related compiler and framework, Redox-OS.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enkerewpo/enkerewpo/refs/heads/master/profile-3d-contrib/profile-night-green.svg">
