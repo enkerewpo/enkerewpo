@@ -24,6 +24,6 @@ wheatfox's OS blog website:
 [www.oscommunity.cn](https://www.oscommunity.cn)
 
 - Peking University (now)
-- Contact at enkerewpo@hotmail.com / yulonghan@stu.pku.edu.cn
+- Contact at yulonghan@stu.pku.edu.cn or wheatfox17@icloud.com
 - Homepage at [wheatfox's den](https://wheatfox.dev)
 
