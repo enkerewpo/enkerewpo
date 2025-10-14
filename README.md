@@ -7,7 +7,7 @@
 </picture>
 </a>
 
-Currently a PhD student @ PKU, researching LLVM, Operating Systems, Heterogeneous Hardwares, and Rust.
+Currently a PhD student @ PKU, researching Operating Systems, Heterogeneous Hardwares, and Rust.
 
 fun facts about wheatfox:
 
