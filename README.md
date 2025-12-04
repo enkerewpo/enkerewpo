@@ -2,8 +2,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enkerewpo&theme=dark&show_icons=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enkerewpo&theme=default&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://my-readme-stats-snowy-sigma.vercel.app/api?username=enkerewpo&theme=dark&show_icons=true">
+  <img alt="GitHub Stats" src="https://my-readme-stats-snowy-sigma.vercel.app//api?username=enkerewpo&theme=default&show_icons=true">
 </picture>
 </a>
 
