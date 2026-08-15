@@ -56,8 +56,3 @@ I write game and electronic music
 [wheatfox@redox-os](https://gitlab.redox-os.org/wheatfox).
 
 Reach me at `yulonghan@stu.pku.edu.cn` · [ORCID](https://orcid.org/0009-0006-3482-9652)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enkerewpo/enkerewpo/refs/heads/master/profile-3d-contrib/profile-night-green.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/enkerewpo/enkerewpo/refs/heads/master/profile-3d-contrib/profile-green-animate.svg">
-</picture>
