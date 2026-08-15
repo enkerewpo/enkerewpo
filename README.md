@@ -5,7 +5,7 @@ researcher at the [Syswonder](https://github.com/syswonder) community. I lead
 [Robonix](https://github.com/syswonder/robonix), an embodied AI operating system: it
 exposes heterogeneous robot hardware as typed, discoverable capabilities, and treats
 pre-trained models as services — a VLM plans, VLA policies act — so the system's job is
-composing, scheduling, and switching between them rather than training any of them. I
+composing, scheduling, and switching between them. I
 also maintain [hvisor](https://github.com/syswonder/hvisor), a lightweight type-1
 hypervisor for edge devices.
 
