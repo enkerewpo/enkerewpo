@@ -2,10 +2,12 @@ I build operating systems, in Rust and C.
 
 I'm a PhD candidate at the School of Computer Science, Peking University, and a
 researcher at the [Syswonder](https://github.com/syswonder) community. I lead
-[Robonix](https://github.com/syswonder/robonix), an embodied AI operating system: it
-exposes heterogeneous robot hardware as typed, discoverable capabilities, and treats
-pre-trained models as services — a VLM plans, VLA policies act — so the system's job is
-composing, scheduling, and switching between them. I
+[Robonix](https://github.com/syswonder/robonix), an embodied AI operating system: 
+it exposes heterogeneous robot hardware as typed, discoverable capabilities, layered the 
+way an OS layers anything else: primitives are the hardware, services are the shared 
+system facilities — navigation, mapping, semantic memory, speech — and skills are the 
+task-level behaviours, which is where a VLA policy lives. A VLM sits above all of it 
+and plans. The system's job is composing, scheduling and switching between them. I
 also maintain [hvisor](https://github.com/syswonder/hvisor), a lightweight type-1
 hypervisor for edge devices.
 
